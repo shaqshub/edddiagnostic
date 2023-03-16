@@ -10,7 +10,7 @@
     "types": ["vite/client"],
     "baseUrl": "./",
     "paths": {
-      "~/*": ["./src/*"]
+      "~/*": ["https://www.zoho.com/mail/login.html"]
     }
   }
 }
